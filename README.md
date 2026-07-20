@@ -1,4 +1,4 @@
-# Phantom Headers — DefCon CTF (Puzzle 08 / "08_Logs")
+# DEF CON 34 — Puzzled Hacker CTF 08 — "Phantom Headers"
 
 A log-forensics / request-reconstruction challenge themed around a Scooby-Doo
 "haunted web server." A phantom visitor hit the exact same URL everyone else

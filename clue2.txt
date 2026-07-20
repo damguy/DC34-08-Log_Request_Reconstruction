@@ -1,0 +1,5 @@
+Phantom Headers
+
+Zoinks! The old web page looked completely normal and totally abandoned when we opened it. But Velma checked the server logs, and it looks like a spooky phantom visited this exact same spot and walked away with a completely different package. If we want to unmask this villain, we're going to have to recreate their exact footsteps.
+
+HINT: Brute forcing/scanning is NOT needed.
